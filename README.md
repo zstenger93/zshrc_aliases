@@ -1,5 +1,5 @@
 <h1 align="center">
-	📖 ZSHRC CHEATSHEET
+	📖 42 & GIT ZSHRC CHEATSHEET
 </h1>
 <p align="center">
 	<b><i>This repo is for making your work more efficient</i></b><br>

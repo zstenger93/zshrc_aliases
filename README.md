@@ -1,9 +1,9 @@
 <h1 align="center">
 	📖 42 & GIT ZSHRC CHEATSHEET
 </h1>
-<p align="center">
+<h2 align="center">
 	<b><i>alias fa='few alias for lazy people'</i></b><br>
-</p>
+</h2>
 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/zstenger93/zshrc_aliases?color=lightblue" />

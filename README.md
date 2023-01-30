@@ -124,3 +124,13 @@ alias a='pmset displaysleepnow'
 ```shell
 alias b='brew install'
 ```
+
+> - Valgrind
+```shell
+alias v='valgrind'
+```
+
+> - Valgrind memcheck
+```shell
+alias vmem='valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes --error-limit=no --tool=memcheck'
+```

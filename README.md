@@ -12,9 +12,9 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zstenger93/zshrc_aliases?color=green" />
 </p>
 
-> _FYI:_
-
-	alias g='say go home && get a life' :rofl: :rofl:
+I might should run this
+alias g='say go home && get a life'
+:rofl: :rofl:
 
 ### 📋 How alias works:
 

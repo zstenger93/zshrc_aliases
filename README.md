@@ -140,14 +140,14 @@ alias vmem='valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes
 alias gl='git log'
 ```
 
-> - Git commit history with changes shown in the commits
-```shell
-alias gld='git log --diff --color=always'
-```
-
 > - Git commit history short
 ```shell
 alias glo='git log --oneline'
+```
+
+> - Git commit history with changes shown in the commits
+```shell
+alias gld='git log --diff --color=always'
 ```
 
 > - Git checkout

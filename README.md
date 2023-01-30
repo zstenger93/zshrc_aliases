@@ -44,6 +44,11 @@ alias .='cd ..'
 alias ga='git add . && git commit -m'
 ```
 
+> - Git diff
+```shell
+alias gd='git diff'
+```
+
 > - Git push
 ```shell
 alias gp='git push'

@@ -119,3 +119,8 @@ alias (name of the alias)='open (path to folder)'
 ```shell
 alias a='pmset displaysleepnow'
 ```
+
+> - Brew install
+```shell
+alias b='brew install'
+```

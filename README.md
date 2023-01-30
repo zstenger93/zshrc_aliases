@@ -11,10 +11,11 @@
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/zstenger93/zshrc_aliases?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zstenger93/zshrc_aliases?color=green" />
 </p>
-
-I might should run this
+<p>
+I might should rather make this
 alias g='say go home && get a life'
 :rofl: :rofl:
+</p>
 
 ### 📋 How alias works:
 

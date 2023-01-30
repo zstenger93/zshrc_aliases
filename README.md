@@ -134,3 +134,23 @@ alias v='valgrind'
 ```shell
 alias vmem='valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes --error-limit=no --tool=memcheck'
 ```
+
+> - Git commit history
+```shell
+alias gl='git log'
+```
+
+> - Git commit history with changes shown in the commits
+```shell
+alias gld='git log --diff --color=always'
+```
+
+> - Git commit history short
+```shell
+alias glo='git log --oneline'
+```
+
+> - Git checkout
+```shell
+alias gco='git checkout'
+```

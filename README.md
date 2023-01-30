@@ -51,7 +51,7 @@ alias gp='git push'
 
 > - Git clone the repo on my clipboard
 ```shell
-gc() {
+c() {
 	local copied_text
 	copied_text=$(pbpaste)
 	git clone $copied_text
@@ -73,7 +73,7 @@ alias p='git pull'
 alias gsa='git submodule add https://github.com/zstenger93/libft.git'
 ```
 
-> - Open my github profile
+> - Open my github profile (change it to yours..)
 ```shell
 alias gh='open https://github.com/zstenger93'
 ```

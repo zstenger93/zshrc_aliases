@@ -147,7 +147,7 @@ alias glo='git log --oneline'
 
 > - Git commit history with changes shown in the commits
 ```shell
-alias gld='git log --diff --color=always'
+alias gld='git log -p'
 ```
 
 > - Git checkout

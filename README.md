@@ -12,13 +12,30 @@
 <div align="center">
 <h2>Menu</h2>
 
-[Norm](#norm)
-[Git](#git)
-[Make](#make)
-[Basic](#basic)
-[Valgrind](#valgrind)
-[Open Links/Folders](#open-links-or-folders)
+<p>
 
+[Norm](#norm)
+</p>
+<p>
+
+[Git](#git)
+</p>
+<p>
+
+[Make](#make)
+</p>
+<p>
+
+[Basic](#basic)
+</p>
+<p>
+
+[Valgrind](#valgrind)
+</p>
+<p>
+
+[Open Links/Folders](#open-links-or-folders)
+<p>
 <h1>📋 How alias works:</h1>
 
 alias (name of the alias)='(the command/s you want to assign to the alias)'

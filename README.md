@@ -18,11 +18,11 @@
 
 <p>
 
-[Norm](#norm)
+[Norm](#-norm)
 </p>
 <p>
 
-[Git](#git)
+[Git](#-git)
 </p>
 <p>
 
@@ -56,7 +56,8 @@ alias (name of the alias)='(the command/s you want to assign to the alias)'
 </div>
 
 <h1>🛠️ Aliases I use:</h1>
-<h2><i>Norm</i></h2>
+
+## Norm [🔝](#menu)
 
 ```shell
 alias n='norminette'

@@ -58,7 +58,7 @@ alias (name of the alias)='(the command/s you want to assign to the alias)'
 	<a href="https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/alias-finder">
 		<p>alias-finder</p>
 	</a>
-	<p>If the typed command is in an alias, it will show you. Get used to aliases esier</p>
+	<p>Which if the typed command is in an alias, it will show you. Get used to aliases esier</p>
 	<a href="https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/common-aliases">
 		<p>common-aliases</p>
 	</a>

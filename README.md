@@ -16,14 +16,14 @@
 	<b><i>alias g='say go home && get a life'</i></b><br>
 	:rofl: :rofl:
 </p>
-
-### 📋 How alias works:
+<div align="center">
+<h1>📋 How alias works:</h1>
 
 > - alias (name of the alias)='(the command/s you want to assign to the alias)'
 
 > - RTFM
 
-### 💡 ZSHRC Themes via:
+<h1>💡 ZSHRC Themes via:</h1>
 
 <div align=center>
 	<a href="https://ohmyz.sh/">
@@ -31,7 +31,7 @@
 	</a>
 </div>
 
-### 🛠️ Aliases I use:
+<h1>🛠️ Aliases I use:</h1>
 
 > - To edit my aliases:
 ```shell
@@ -168,3 +168,4 @@ alias gld='git log -p'
 ```shell
 alias gco='git checkout'
 ```
+</div>

@@ -71,7 +71,7 @@ Grep only the error lines with their location
 ```shell
 alias n='n | grep Error'
 ```
-[🔝](#menu)<h2><i>Git</i></h2>
+## Git [🔝](#menu)
 
 Git clone the repo on my clipboard
 ```shell

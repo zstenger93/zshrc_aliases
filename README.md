@@ -25,7 +25,11 @@
 
 ### 💡 ZSHRC Themes via:
 
-> - 
+<div align=center>
+	<a href="https://ohmyz.sh/">
+		<img src="https://ohmyz.sh/img/OMZLogo_BnW.png">
+	</a>
+</div>
 
 ### 🛠️ Aliases I use:
 

@@ -11,7 +11,9 @@
 </p>
 
 <h2>Menu</h2>
+
 - [ZSH Themes](#zshrc-themes-via:)
+- [Norm](#norm)
 
 <div align="center">
 <h1>📋 How alias works:</h1>

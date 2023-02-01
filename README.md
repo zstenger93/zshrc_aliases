@@ -1,17 +1,17 @@
 <h1 align="center">
 	📖 42 & GIT ZSHRC CHEATSHEET
 </h1>
-<h2 align=center>If you would like to contribute, feel free to open a pull request</h2>
-<h3 align="center">
+<h2 align=center><i>If you would like to contribute, feel free to open a pull request</i></h2>
+<h2 align="center">
 	<b><i>alias fa='few alias for lazy people'</i></b><br>
-</h3>
+</h2>
 <p align="center">
 	<b><i>I might should rather make this</i></b><br>
 	<b><i>alias g='say go home && get a life'</i></b><br>
 	:rofl: :rofl:
 </p>
 <div align="center">
-<h2>Menu</h2>
+<h2><i>Menu</i></h2>
 
 <p>
 
@@ -43,7 +43,7 @@
 <p>The basic syntax for defining an alias is as follows:</p>
 alias (name of the alias)='(the command/s you want to assign to the alias)'
 
-RTFM
+<i>RTFM</i>
 
 <h1>💡 ZSHRC Themes via:</h1>
 
@@ -54,7 +54,7 @@ RTFM
 </div>
 
 <h1>🛠️ Aliases I use:</h1>
-<h2>Norm</h2>
+<h2><i>Norm</i></h2>
 
 ```shell
 alias n='norminette'
@@ -69,7 +69,7 @@ Grep only the error lines with their location
 ```shell
 alias n='n | grep Error'
 ```
-<h2>Git</h2>
+<h2><i>Git</i></h2>
 
 Git clone the repo on my clipboard
 ```shell
@@ -129,7 +129,7 @@ Git checkout
 ```shell
 alias gco='git checkout'
 ```
-<h2>Make</h2>
+<h2><i>Make</i></h2>
 
 Make
 ```shell
@@ -151,7 +151,7 @@ make re
 ```shell
 alias mr='make re'
 ```
-<h2>Open links or folders</h2>
+<h2><i>Open links or folders</i></h2>
 
 Open my github profile (change it to yours..)
 ```shell
@@ -167,7 +167,7 @@ If you need a directory a lot of times for some reason
 ```shell
 alias (name of the alias)='open (path to folder)'
 ```
-<h2>Basic</h2>
+<h2><i>Basic</i></h2>
 
 To edit my aliases:
 ```shell
@@ -198,7 +198,7 @@ Brew install
 ```shell
 alias b='brew install'
 ```
-<h2>Valgrind</h2>
+<h2><i>Valgrind</i></h2>
 
 Valgrind
 ```shell

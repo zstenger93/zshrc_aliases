@@ -4,18 +4,15 @@
 <h2 align="center">
 	<b><i>alias fa='few alias for lazy people'</i></b><br>
 </h2>
-
-<p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/zstenger93/zshrc_aliases?color=lightblue" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/zstenger93/zshrc_aliases?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/zstenger93/zshrc_aliases?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zstenger93/zshrc_aliases?color=green" />
-</p>
 <p align="center">
 	<b><i>I might should rather make this</i></b><br>
 	<b><i>alias g='say go home && get a life'</i></b><br>
 	:rofl: :rofl:
 </p>
+<div align=center>
+<h2>Menu</h2>
+- [ZSH Themes](#-zshrc-themes-via:)
+</div>
 <div align="center">
 <h1>📋 How alias works:</h1>
 
@@ -34,7 +31,6 @@ RTFM
 <h1>🛠️ Aliases I use:</h1>
 <h2>Norm</h2>
 
-Norm check
 ```shell
 alias n='norminette'
 ```
@@ -137,6 +133,11 @@ Open my github profile (change it to yours..)
 alias gh='open https://github.com/zstenger93'
 ```
 
+Open my intra profile
+```shell
+alias i='open https://profile.intra.42.fr/'
+```
+
 If you need a directory a lot of times for some reason
 ```shell
 alias (name of the alias)='open (path to folder)'
@@ -146,6 +147,11 @@ alias (name of the alias)='open (path to folder)'
 To edit my aliases:
 ```shell
 alias z='vi ~/.zshrc'
+```
+
+chmod
+```shell
+alias ch='chmod +x'
 ```
 
 Touch

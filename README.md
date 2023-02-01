@@ -12,8 +12,12 @@
 
 <h2>Menu</h2>
 
-- [ZSH Themes](#zshrc-themes-via:)
 - [Norm](#norm)
+- [Git](#git)
+- [Make](#make)
+- [Basic](#basic)
+- [Valgrind](#valgrind)
+- [Open Links/Folders](open-links-or-folders)
 
 <div align="center">
 <h1>📋 How alias works:</h1>

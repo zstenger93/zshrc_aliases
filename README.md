@@ -12,12 +12,12 @@
 <div align="center">
 <h2>Menu</h2>
 
-- [Norm](#norm)
-- [Git](#git)
-- [Make](#make)
-- [Basic](#basic)
-- [Valgrind](#valgrind)
-- [Open Links/Folders](#open-links-or-folders)
+[Norm](#norm)
+[Git](#git)
+[Make](#make)
+[Basic](#basic)
+[Valgrind](#valgrind)
+[Open Links/Folders](#open-links-or-folders)
 
 <h1>📋 How alias works:</h1>
 

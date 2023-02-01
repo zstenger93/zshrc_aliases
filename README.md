@@ -18,11 +18,11 @@
 
 <p>
 
-[Norm](#-norm)
+[Norm](#norm)
 </p>
 <p>
 
-[Git](#-git)
+[Git](#git)
 </p>
 <p>
 
@@ -56,8 +56,7 @@ alias (name of the alias)='(the command/s you want to assign to the alias)'
 </div>
 
 <h1>🛠️ Aliases I use:</h1>
-
-## Norm [🔝](#menu)
+<h2><i>Norm</i></h2>
 
 ```shell
 alias n='norminette'
@@ -72,8 +71,7 @@ Grep only the error lines with their location
 ```shell
 alias n='n | grep Error'
 ```
-## Git [🔝](#menu)
-
+<h2><i>Git</i></h2>
 Git clone the repo on my clipboard
 ```shell
 c() {
@@ -212,4 +210,5 @@ Valgrind memcheck
 ```shell
 alias vmem='valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes --error-limit=no --tool=memcheck'
 ```
+[🔝](#menu)
 </div>

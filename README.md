@@ -208,6 +208,11 @@ Move back one folder
 alias .='cd ..'
 ```
 
+If you move to a specific directory many times you can try this: cd to root and the path to the dirctory
+```shell
+alias name='cd / && cd path/to/directory'
+```
+
 AFK - Screen Lock
 ```shell
 alias a='pmset displaysleepnow'

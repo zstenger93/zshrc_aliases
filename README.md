@@ -41,7 +41,6 @@
 [Open Links/Folders](#open-links-or-folders)
 <p>
 <h1>📋 How alias works:</h1>
-
 <p>user-defined shortcut for a command or set of commands you can invoke like any other command.</p>
 <p>The basic syntax for defining an alias is as follows:</p>
 alias (name of the alias)='(the command/s you want to assign to the alias)'

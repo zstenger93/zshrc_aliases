@@ -53,7 +53,7 @@ alias (name of the alias)='(the command/s you want to assign to the alias)'
 	<a href="https://ohmyz.sh/">
 		<img src="https://ohmyz.sh/img/OMZLogo_BnW.png">
 	</a>
-	If you want more than this have a look up on their 200+ plugins
+	<p>If you want more than this have a look up on their 200+ plugins</p>
 	<p>A few example:</p>
 	<p>if the typed command is in an alias, it will show you. Get used to aliases esier</p>
 	<a href="https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/alias-finder">

@@ -1,10 +1,10 @@
 <h1 align="center">
 	📖 42 & GIT ZSHRC CHEATSHEET
 </h1>
-<p align=center>If you would like to contribute, feel free to open a pull request</p>
-<h2 align="center">
+<h2 align=center>If you would like to contribute, feel free to open a pull request</h2>
+<h3 align="center">
 	<b><i>alias fa='few alias for lazy people'</i></b><br>
-</h2>
+</h3>
 <p align="center">
 	<b><i>I might should rather make this</i></b><br>
 	<b><i>alias g='say go home && get a life'</i></b><br>

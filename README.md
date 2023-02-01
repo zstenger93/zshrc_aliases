@@ -9,10 +9,10 @@
 	<b><i>alias g='say go home && get a life'</i></b><br>
 	:rofl: :rofl:
 </p>
-<div align=center>
+
 <h2>Menu</h2>
 - [ZSH Themes](#-zshrc-themes-via:)
-</div>
+
 <div align="center">
 <h1>📋 How alias works:</h1>
 

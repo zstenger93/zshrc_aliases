@@ -62,6 +62,12 @@ alias (name of the alias)='(the command/s you want to assign to the alias)'
 	<a href="https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/common-aliases">
 		<p>common-aliases</p>
 	</a>
+	<a href="https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins">
+		<p>Link to the rest 200+ plguins</p>
+	</a>
+
+
+	https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 
 </div>
 

@@ -72,6 +72,7 @@ Grep only the error lines with their location
 alias n='n | grep Error'
 ```
 <h2><i>Git</i></h2>
+
 Git clone the repo on my clipboard
 ```shell
 c() {
@@ -170,6 +171,28 @@ alias (name of the alias)='open (path to folder)'
 ```
 <h2><i>Basic</i></h2>
 
+Type "tco filename" to create and open a c file, you can change it to whatever. I have it for .c .h and Makefile
+```shell
+tco() {
+  touch "$1.c"
+  open -a Visual\ Studio\ Code "$1.c"
+}
+```
+
+
+Type "tc filename" to create a c file, same as the previous without opening it
+```shell
+tc() {
+  touch "$1.c"
+}
+```
+
+
+Touch
+```shell
+alias t='touch'
+```
+
 To edit my aliases:
 ```shell
 alias z='vi ~/.zshrc'
@@ -178,11 +201,6 @@ alias z='vi ~/.zshrc'
 chmod
 ```shell
 alias ch='chmod +x'
-```
-
-Touch
-```shell
-alias t='touch'
 ```
 
 Move back one folder

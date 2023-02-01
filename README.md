@@ -93,6 +93,16 @@ alias gh='open https://github.com/zstenger93'
 alias n='norminette'
 ```
 
+> - Grep only the number of norm errors
+```shell
+alias n='n | grep Error: |  wc -l'
+```
+
+> - Grep only the error lines with their location
+```shell
+alias n='n | grep Error'
+```
+
 > - Make commands
 ```shell
 alias m='make'

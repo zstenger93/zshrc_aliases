@@ -9,7 +9,7 @@
 	<b><i>alias g='say go home && get a life'</i></b><br>
 	:rofl: :rofl:
 </p>
-
+<div align="center">
 <h2>Menu</h2>
 
 - [Norm](#norm)
@@ -17,9 +17,8 @@
 - [Make](#make)
 - [Basic](#basic)
 - [Valgrind](#valgrind)
-- [Open Links/Folders](open-links-or-folders)
+- [Open Links/Folders](#open-links-or-folders)
 
-<div align="center">
 <h1>📋 How alias works:</h1>
 
 alias (name of the alias)='(the command/s you want to assign to the alias)'

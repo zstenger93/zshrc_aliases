@@ -19,9 +19,9 @@
 <div align="center">
 <h1>📋 How alias works:</h1>
 
-> - alias (name of the alias)='(the command/s you want to assign to the alias)'
+alias (name of the alias)='(the command/s you want to assign to the alias)'
 
-> - RTFM
+RTFM
 
 <h1>💡 ZSHRC Themes via:</h1>
 
@@ -33,37 +33,37 @@
 
 <h1>🛠️ Aliases I use:</h1>
 
-> - To edit my aliases:
+To edit my aliases:
 ```shell
 alias z='vi ~/.zshrc'
 ```
 
-> - Touch
+Touch
 ```shell
 alias t='touch'
 ```
 
-> - Move back one folder
+Move back one folder
 ```shell
 alias .='cd ..'
 ```
 
-> - Git add all and commit
+Git add all and commit
 ```shell
 alias ga='git add . && git commit -m'
 ```
 
-> - Git diff
+Git diff
 ```shell
 alias gd='git diff'
 ```
 
-> - Git push
+Git push
 ```shell
 alias gp='git push'
 ```
 
-> - Git clone the repo on my clipboard
+Git clone the repo on my clipboard
 ```shell
 c() {
 	local copied_text
@@ -72,42 +72,42 @@ c() {
 }
 ```
 
-> - Git status
+Git status
 ```shell
 alias gs='git status'
 ```
 
-> - Git pull
+Git pull
 ```shell
 alias p='git pull'
 ```
 
-> - Add my libft as a git submodule (change it to yours..)
+Add my libft as a git submodule (change it to yours..)
 ```shell
 alias gsa='git submodule add https://github.com/zstenger93/libft.git'
 ```
 
-> - Open my github profile (change it to yours..)
+Open my github profile (change it to yours..)
 ```shell
 alias gh='open https://github.com/zstenger93'
 ```
 
-> - Norm check
+Norm check
 ```shell
 alias n='norminette'
 ```
 
-> - Grep only the number of norm errors
+Grep only the number of norm errors
 ```shell
 alias n='n | grep Error: |  wc -l'
 ```
 
-> - Grep only the error lines with their location
+Grep only the error lines with their location
 ```shell
 alias n='n | grep Error'
 ```
 
-> - Make commands
+Make commands
 ```shell
 alias m='make'
 ```
@@ -124,47 +124,47 @@ alias mf='make fclean'
 alias mr='make re'
 ```
 
-> - If you need a directory a lot of times for some reason
+If you need a directory a lot of times for some reason
 ```shell
 alias (name of the alias)='open (path to folder)'
 ```
 
-> - AFK - Screen Lock
+AFK - Screen Lock
 ```shell
 alias a='pmset displaysleepnow'
 ```
 
-> - Brew install
+Brew install
 ```shell
 alias b='brew install'
 ```
 
-> - Valgrind
+Valgrind
 ```shell
 alias v='valgrind'
 ```
 
-> - Valgrind memcheck
+Valgrind memcheck
 ```shell
 alias vmem='valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes --error-limit=no --tool=memcheck'
 ```
 
-> - Git commit history
+Git commit history
 ```shell
 alias gl='git log'
 ```
 
-> - Git commit history short
+Git commit history short
 ```shell
 alias glo='git log --oneline'
 ```
 
-> - Git commit history with changes shown in the commits
+Git commit history with changes shown in the commits
 ```shell
 alias gld='git log -p'
 ```
 
-> - Git checkout
+Git checkout
 ```shell
 alias gco='git checkout'
 ```

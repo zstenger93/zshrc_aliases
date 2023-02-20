@@ -1,18 +1,6 @@
 <h1 align="center">
 	📖 42 & GIT ZSHRC CHEATSHEET FOR BEGINNERS
 </h1>
-<h2 align=center>
-	<p><i>You like it? -> Star it.</i></p>
-	<p><i>Want to contribute? -> Pull request.</i></p>
-</h2>
-<h2 align="center">
-	<b><i>alias fa='few alias for lazy people'</i></b><br>
-</h2>
-<p align="center">
-	<b><i>I might should rather make this</i></b><br>
-	<b><i>alias g='say go home && get a life'</i></b><br>
-	:rofl: :rofl:
-</p>
 <div align="center">
 <h2><i>Menu</i></h2>
 

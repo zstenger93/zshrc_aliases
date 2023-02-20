@@ -1,5 +1,5 @@
 <h1 align="center">
-	📖 42 & GIT ZSHRC CHEATSHEET
+	📖 42 & GIT ZSHRC CHEATSHEET FOR BEGINNERS
 </h1>
 <h2 align=center>
 	<p><i>You like it? -> Star it.</i></p>

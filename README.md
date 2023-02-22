@@ -32,11 +32,8 @@
 <p>user-defined shortcut for a command or set of commands you can invoke like any other command.</p>
 <p>The basic syntax for defining an alias is as follows:</p>
 alias (name of the alias)='(the command/s you want to assign to the alias)'
-
 <i>RTFM</i>
-
 <h1>💡 ZSHRC Themes via:</h1>
-
 <div align=center>
 	<a href="https://ohmyz.sh/">
 		<img src="https://ohmyz.sh/img/OMZLogo_BnW.png">
@@ -54,11 +51,9 @@ alias (name of the alias)='(the command/s you want to assign to the alias)'
 		<p>Link to the rest 200+ plguins</p>
 	</a>
 
-
 	https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 
 </div>
-
 <h1>🛠️ Aliases I use:</h1>
 <h2><i>Norm</i></h2>
 

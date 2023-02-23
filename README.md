@@ -44,11 +44,8 @@
 <p>user-defined shortcut for a command or set of commands you can invoke like any other command.</p>
 <p>The basic syntax for defining an alias is as follows:</p>
 alias (name of the alias)='(the command/s you want to assign to the alias)'
-
 <i>RTFM</i>
-
 <h1>💡 ZSHRC Themes via:</h1>
-
 <div align=center>
 	<a href="https://ohmyz.sh/">
 		<img src="https://ohmyz.sh/img/OMZLogo_BnW.png">
@@ -70,7 +67,6 @@ alias (name of the alias)='(the command/s you want to assign to the alias)'
 	https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 
 </div>
-
 <h1>🛠️ Aliases I use:</h1>
 <h2><i>Norm</i></h2>
 
@@ -195,14 +191,12 @@ tco() {
 }
 ```
 
-
 Type "tc filename" to create a c file, same as the previous without opening it
 ```shell
 tc() {
   touch "$1.c"
 }
 ```
-
 
 Touch
 ```shell
